@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TransPhylo"]
+	path = TransPhylo
+	url = https://github.com/xavierdidelot/transphylo
+	shallow = true
+	registered = true
